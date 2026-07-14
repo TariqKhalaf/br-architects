@@ -47,7 +47,7 @@ BR-Architects/
 
 ## 🌐 Live Demo
 
-Coming Soon...
+https://tariqkhalaf.github.io/br-architects/
 
 ## 👨‍💻 Author
 
